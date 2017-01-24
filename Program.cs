@@ -11,7 +11,11 @@ namespace ConsoleApplication
             // LinqExercise2.Execute();
             // LinqExercise3.Execute();
             // LinqExercise4.Execute();
-            LinqExercise5.Execute();
+            // LinqExercise5.Execute();
+            // LinqExercise6.Execute();
+            LinqExercise7.Execute();
+            
+            
         }
     }
 }
